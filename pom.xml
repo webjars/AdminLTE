@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>AdminLTE</artifactId>
-    <version>3.0.0-SNAPSHOT</version>
+    <version>3.0.0</version>
     <name>AdminLTE</name>
     <description>WebJar for AdminLTE</description>
     <url>http://webjars.org</url>
@@ -47,7 +47,7 @@
         <url>http://github.com/webjars/AdminLTE</url>
         <connection>scm:git:https://github.com/webjars/AdminLTE.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/AdminLTE.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>AdminLTE-3.0.0</tag>
     </scm>
     
     <build>
