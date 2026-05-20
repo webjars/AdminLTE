@@ -1,2 +1,7 @@
-# adminlte
-[WebJar](http://www.webjars.org/) for [adminlte](https://github.com/almasaeed2010/AdminLTE)
+WebJar for AdminLTE
+
+More info: https://webjars.org
+
+Upstream: https://github.com/ColorlibHQ/AdminLTE
+
+This WebJar is deployable via https://webjars.org
